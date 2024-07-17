@@ -14,8 +14,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "libretranslate-integration.helloWorld",
-        "title": "Hello World"
+        "command": "libretranslate-integration.replaceWithTranslation",
+        "title": "LibreTranslate: Replace with translation"
+      },
+      {
+        "command": "libretranslate-integration.insertTranslationBelow",
+        "title": "LibreTranslate: Insert Translation Below"
       }
     ]
   },
