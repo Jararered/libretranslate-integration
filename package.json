@@ -2,7 +2,7 @@
   "name": "libretranslate-integration",
   "displayName": "LibreTranslate Integration",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Jararered",
   "repository": {
     "type": "git",
